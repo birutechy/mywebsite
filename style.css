@@ -1,0 +1,21 @@
+body {
+    background-color: aliceblue;
+}
+
+#student_div1 {
+    border-width: 5px;
+    border-color: red;
+    border-style: solid;
+    padding: 24px;
+}
+
+
+#marksheet {
+    border: 1px solid blue;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+#m1{
+    color: green;
+}
